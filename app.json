@@ -1,14 +1,14 @@
 {
-    "name": "v2-heroku",
-    "description": "deploy v2ray tor on heroku",
-    "keywords": ["v2ray"],
+    "name": "heroku",
+    "description": "deploy on heroku",
+    "keywords": ["heroku"],
     "env": {
         "UUID": {
-            "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "description": "UUID",
+            "value": "c95ef1d0-f3ac-0586-96e9-230a37dda068"        
         }
     },
     "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/kinto",
+    "repository": "https://github.com/qagolefy-3598/kinto",
     "stack": "container"
 }
